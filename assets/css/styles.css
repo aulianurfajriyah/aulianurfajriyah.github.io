@@ -573,9 +573,10 @@ img {
 
 /*==================== EXPERIENCE ====================*/
 .experience__tabs{
-  display: flex;
+  display: grid;
   justify-content: space-evenly;
   margin-bottom: var(--mb-2);
+  grid-template-columns: repeat(2, .2fr);
 }
 
 .experience__button{
@@ -709,6 +710,7 @@ img {
 
 .enthusiasm__modal-enthusiasm{
   display: flex;
+  flex-direction: column;
 }
 
 .enthusiasm__modal-title{
@@ -724,6 +726,21 @@ img {
   font-size: 1.5rem;
   color: var(--first-color);
   cursor: pointer;
+}
+
+.enthusiasm__modal-group{
+  display: flex;
+  justify-content: space-between;
+}
+
+.enthusiasm__modal-company{
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-semi-bold);
+}
+
+.enthusiasm__modal-description{
+  font-size: var(--small-font-size);
+  text-align: justify;
 }
 
 .enthusiasm__modal-icon{
@@ -1093,6 +1110,9 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .skills__container{
+    grid-template-columns: repeat(1, 1fr);
+  }
   .experience__sections{
     display: grid;
     grid-template-columns: .6fr;
@@ -1199,6 +1219,7 @@ img {
 
   .experience__tabs{
     justify-content: center;
+    column-gap: 2rem;
   }
 
   .experience__button{
@@ -1210,7 +1231,7 @@ img {
   }
 
   .enthusiasm__container{
-    grid-template-columns: repeat(3, 218px);
+    grid-template-columns: repeat(2, 218px);
     justify-content: center;
   }
 
@@ -1223,7 +1244,10 @@ img {
   }
 
   .enthusiasm__modal-content{
-    width: 450px;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+    overflow-y: scroll;
   }
 
   .portfolio__img{
@@ -1286,12 +1310,16 @@ img {
     width: 320px;
   }
 
+  .home__title{
+    font-size: var(--h1-font-size);
+  }
+
   .home__social{
     transform: translateX(-6rem);
   }
 
   .enthusiasm__container{
-    grid-template-columns: repeat(3, 238px);
+    grid-template-columns: repeat(2, 238px);
   }
 
   .portfolio__content{
