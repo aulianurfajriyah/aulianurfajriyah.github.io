@@ -695,6 +695,8 @@ img {
   /* opacity: 0; */
   visibility: hidden;
   transition: .3s;
+  overflow: hidden;
+  overflow-y: scroll;
 }
 
 .enthusiasm__modal-content{
