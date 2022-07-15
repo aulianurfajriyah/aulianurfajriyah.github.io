@@ -695,8 +695,6 @@ img {
   /* opacity: 0; */
   visibility: hidden;
   transition: .3s;
-  overflow: hidden;
-  overflow-y: scroll;
 }
 
 .enthusiasm__modal-content{
@@ -704,6 +702,9 @@ img {
   background-color: var(--container-color);
   padding: 1.5rem;
   border-radius: .5rem;
+  max-height: 80%;
+  overflow: hidden;
+  overflow-y: scroll;
 }
 
 .enthusiasm__modal-enthusiasms{
