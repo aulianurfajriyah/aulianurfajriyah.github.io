@@ -100,7 +100,7 @@ var swiperPortfolio = new Swiper('.portfolio__container', {
         el: '.swiper-pagination'
     },
     autoplay:{
-        delay:2500,
+        delay:3500,
         disableOnInteraction:false
     }
 });
