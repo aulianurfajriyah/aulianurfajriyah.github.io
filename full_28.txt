@@ -1,0 +1,83 @@
+ Aulia Nur Fajriyah                        aulianurfajriyah311@gmail.com                        bit.ly/PortfolioAuliaNF
+
+
+I am an adaptable individual with a passion for learning new things and embracing challenges. I thrive in team
+environments, whether as a leader or a supportive team member. My interests lie in web development, front-end
+engineering, UI/UX design, graphic design, data presentation, and all activities involving visualization. I am eager to
+leverage my skills and creativity to contribute effectively to any project.
+
+Education
+Universitas Gadjah Mada | Information Technology                              2020 - 2024
+  I have gained valuable experience in various educational roles such as being a lectures assistant, research
+   assistant, and laboratory assistant. Engaging in competitions and participating in multiple organizations has
+   honed my collaborative and leadership skills.
+
+   Passionate subjects for me are : Human and Computer Interaction, User Experience, Software Development, and
+   Decision Support Systems.
+
+   Furthermore, my thesis focused on developing a decision support system aimed at aiding users in selecting the
+   right skincare ingredients tailored to their specific skin type. It involves website development, artificial intelligent,
+   chatbot integration, and many more.
+
+
+Experiences                                                                                                                     Skills
+                                                                                                                                Design Graphics
+GeoAI Team Teknik Geodesi FT UGM | Junior IT Engineer                              Nov 2024 - Now                                5+ years Experience since I studied in
+My Senior and I build a Digital Twin App Web based as a Geographic Information System (GIS). Collaborating with                   senior high school.
+
+Geographic Specialist and Lecturer developing digital twin for local area in Surabaya. I handled back-end side to                 Experienced using CorelDraw, Adobe
+                                                                                                                                  Photoshop, Inkscape, Canva, and
+manage database. We used mongoDB as a data storage. It’s an easy way to connect the API with Next.js App.
+                                                                                                                                  now prefer using Figma.
+
+Freelance | IT Engineer              Dec 2023 - Apr 2024                                                                        UI/UX Design
+  I have experienced as frontend developer using React.js with Tailwind CSS, I have delved into creating interactive             3 years experience using Figma.
+    user interfaces and optimizing website performance. This position has provided me with a deeper understanding
+    of JavaScript programming and frontend frameworks. Through this experience, I have learned the importance of
+                                                                                                                                Software Development
+                                                                                                                                 2 years experience with some SDLC
+    attention to detail and responsiveness in web design
+                                                                         methods.
+    In the next project, my role as a WordPress engineer, I have honed my skills in building visually appealing and
+    functional websites using Elementor. Additionally, I have gained expertise in customizing WordPress websites to
+                                                                                                                                Frontend Engineer
+    meet specific client needs, enhancing my problem-solving abilities.
+                                                         3 years experience using      React JS
+                                                                                                                                  and Tailwind CSS.
+    As a UI/UX designer proficient in Figma, I have delved into user-centered design principles and creating
+    seamless user experiences. This role has allowed me to explore prototyping and user testing, emphasizing the                Wordpress Engineer
+    significance of user feedback in refining design iterations. By staying updated on design trends and user                    2 years experience.
+    behavior analysis, I continuously enhance my creative problem-solving skills in crafting intuitive interfaces.
+                                                                                                                                English
+KHDTK Wanagama | Wordpress Engineer Intern                               Nov 2022 - Jan 2023                                     Toefl Prediction 510 points
+
+  During my internship at KHDTK Wanagama, the UGM-owned forest reserve, I served as a WordPress manager,                        Pitching
+   where I undertook the task of redesigning an existing website. This experience allowed me to enhance my skills in             W inning many presentations
+   website revamping, user experience enhancement, and content organization. 
+                                                    competition
+
+   Integrating a Geographic Information System (GIS) page using Leaflet.js, a dynamic component to the website,                 Team Work
+   enriching user interaction and engagement. This project not only expanded my technical capabilities but also                  Used to work with team in many
+   emphasized the importance of user-friendly interfaces in conveying complex information effectively.                            projects
+
+Phi Apple | Project Manager and CFO                       Nov 2021 - Jul 2023                                                         aulianurfajriyah.github.io
+A start-up that my friends and I built in our first year. This software house is an IT provider for all kind of type website,         +62 878 1593 1284
+mobile, and IoT as client request’s. I took participant as project manager, sometimes double as UI/UX Designer and
+                                                                                                                                      aulianurfajriyah
+Frontend Engineer. I learned how to manage people and limited time we had to full fill clients need.
+                                                                                                                                      aulianf_lia
+DTS Pro Academy by KOMINFO | Helpdesk                            Jul 2021 - Sep 2022
+During my time at Digital Talent Scholarship Professional Academy conducted by Ministry of Communications and
+Informatics, I worked as a helpdesk on the program in collaboration with Cisco Network Academy, particularly the
+Python class. I was managing the Cisco Course and assisting the teacher in class organization. I gained valuable
+insights by observing the participants' Python projects.
+
+Fitin Indonesia | Creative Team                  Nov 2020 - Dec 2022
+In this company, I learned to create a social and environment oriented. Fitin Indonesia produced eco-friendly
+product due to join #saveourplanet. Also the added value is supporting student with disabilities in SLB Yappenas.
+Collaborating to modify Batik Ciprat by SLB Yappenas into creative souvenirs. I was responsible for constructing new
+idea to engage market targeted. Started by brain storming with the team, made a plan for the marketing, and
+execute the idea to evolve attractiveness of Fitin Indonesia. This project managed to attract attention from PMW
+UGM and KBMI. We received financial assistance in the amount of IDR22.000.000 to support development of our
+business.
+

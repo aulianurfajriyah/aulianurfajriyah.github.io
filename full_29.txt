@@ -1,0 +1,62 @@
+Organizations
+Satu Surga | Initiator, Manager, and Media Social                     Apr 2021 - Apr 2024
+As an initiator and social media organizer for annual charity volunteering initiatives, we named “Satu Surga”, I had the gratifying experience of
+starting with a small group of friends and expanding our reach to over 70+ dedicated participants. Our efforts involved visiting various locations such
+as orphanages, TPST Piyungan, and waste pickers, offering assistance to those who need. All reports can be accessed in bit.ly/SatuSurga.
+KMTETI | Treasurer            Dec 2020 - Dec 2022
+During my tenure as the vice treasurer in the first year and subsequently as the main treasurer in the second year of my organization, I honed my skills in
+communication, teamwork, and financial management. Collaborating closely with other members, I effectively handled financial responsibilities, ensuring transparency
+and accountability in all transactions. These roles also reinforced the significance of clear communication and seamless teamwork in achieving shared goals.
+FIND IT 2021 and 2022 | Public Relation and Publication                        Aug 2020 - Aug 2022
+Starting as a staff member in the first year, I had the opportunity to learn from my coordinator how to effectively lead a team. This experience helped me develop my
+understanding of leadership and teamwork. Building upon that experience, I took on the role of coordinator in the following year, where I focused on evaluating and
+leading my team. Through this process, I honed my leadership skills and learned how to guide a team towards success.
+
+
+Achievement
+1st Place Winner SDGs Pitch Project Competition | International                             Nov 2023
+Alongside my team, we presented our project "Inside Out You", a website designed for tracking students' mental health. This competition took place at the International
+Islamic University Malaysia and provided me with valuable experience in project presentation and global collaboration.
+1st Place Winner Web Development Competition Informatics Festival 2023 | National                                     Oct 2023
+My team and I developed "StockMaster," a website focused on learning stock patterns and trends. This victory at a national level competition enhanced my skills in web
+development and strategic planning.
+Awardee Rumah Kepemimpinan Scholarship | National                            Aug 2022 - May 2024
+Successfully competing against 3000+ applicants, I earned a scholarship for the 2-years incubator program at Rumah Kepemimpinan. This opportunity allowed me to
+grow in leadership, self-development, and effective habit-building for post-campus life. Additionally, networking with peers from diverse universities broadened my
+perspectives and connections.
+1st Place Winner IT Competition Informatics Festival 2022 | National                     Oct 2022
+My team excelled in building "Tutur," a website for learning American Sign Language with the aid of machine learning technology. This experience deepened my
+understanding of accessibility and innovation in technology projects.
+Finalist of Pekan Ilmiah Nasional (PIMNAS) 2021 | National                        Sep 2022
+Recognized as a finalist in this prestigious competition by Ministry of Education, Culture,Research, and Technology, my team received a grant of IDR9.000.000 for our
+project "Boneka Fauna Nusantara." Leveraging Augmented Reality for teaching rare Indonesian fauna, I also developed a supporting website. This experience broadened
+my skills in both AR development and website creation for educational purposes.
+
+
+Recent Projects
+SkinTrack | Software Developer                    Jan 2024 - Jun 2024
+My thesis project I did my self all the process. Under my lecturer’s guidance, we discussed about clinical problem and how the decision support system can solve it. After
+decided the topic, I researched about the phenomenal how people choose their skincare, where is it should be based on their own skin type. Reviewed the previous
+solution and tried to improve the impact. Website that integrated with AI could be perfect combination. I designed the interface and experienced, built the frontend,
+integrated with the third party for efficiency reasons, and tested to public. After processed the data using SUS and UEQ tools, SkinTrack got 73,54 points and categorized
+as “Good” for its first released.
+StockMaster | Creator and UI/UX Designer                     Sep 2023 - Oct 2023
+StockMaster is a platform where people can study about stock pattern and their updates. This project is a web based software. My team and I built this project in order
+to join website development competition in national level. We achieved the 1st place after presenting our project in final session. I learned how to manage our resources
+in a limit time for an optimal result.
+CrackCheck | Frontend Engineer and UI/UX Designer                         Oct 2023 - Nov 2023
+As the Frontend Engineer and UI Designer for this project, I played a crucial role in developing its user-friendly interface and implementing advanced WebGIS
+functionality using the Leaflet library. The application features an interactive map visualizing road damage across Indonesia, capabilities for recording and uploading
+road videos, detailed AI-driven damage detection results, and downloadable road inspection reports. This project highlights my expertise in creating intuitive user
+interfaces and developing sophisticated web applications with geospatial features, demonstrating my ability to contribute to cutting-edge technology solutions in the
+field of infrastructure management.
+Tutur | Creator and UI/UX Designer                 Sep 2022 - Oct 2022
+The app was developed using the Scrum method, which is commonly used for complex product development within short timelines. My team and I won the 1st Place
+National IT Competition Informatics Festival in 2022. I learned how to make a complete UI design for responsive web-app and work with team to create an impactful
+innovation.
+ASL Handy | Project Manager and UI/UX Designer                        Sep 2022 - Oct 2022
+As Project Manager and UI/UX Designer for ASL Handy, I led the development of an innovative solution to bridge communication gaps between deaf individuals and the
+general public. Our efforts were recognized with a 2nd place win at the Summer School program hosted by Electrical and Information Engineering department, Gadjah
+Mada University. This project showcases my ability to manage complex initiatives and design user-centric interfaces that address real-world accessibility challenges,
+demonstrating my skills in both project leadership and user experience design.
+
